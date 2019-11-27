@@ -1,0 +1,13 @@
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\bin\Debug\AppsConDB.exe.config
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\bin\Debug\AppsConDB.exe
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\bin\Debug\AppsConDB.pdb
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\bin\Debug\AppsConDB.xml
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\obj\Debug\AppsConDB.vbprojAssemblyReference.cache
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\obj\Debug\AppsConDB.Form1.resources
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\obj\Debug\AppsConDB.Resources.resources
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\obj\Debug\AppsConDB.vbproj.GenerateResource.cache
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\obj\Debug\AppsConDB.vbproj.CoreCompileInputs.cache
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\obj\Debug\AppsConDB.exe
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\obj\Debug\AppsConDB.xml
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\obj\Debug\AppsConDB.pdb
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\AppsConDB\obj\Debug\AppsConDB.Cuenta.resources
